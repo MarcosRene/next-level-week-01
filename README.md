@@ -4,7 +4,7 @@
 
 ## **:rocket: Sobre o que foi desenvolvido**
 
-Projeto desendolvido na Next Level Week da Rocktseat. A aplicação tem como objetivo compartilhar pontos de coletas para reciclagem de materiais específicos.
+Projeto desenvolvido na Next Level Week da Rocktseat. A aplicação tem como objetivo compartilhar pontos de coletas para reciclagem de materiais específicos.
 
 ## **:computer: Tecnologias**
 
